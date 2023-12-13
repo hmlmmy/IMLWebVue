@@ -4,7 +4,7 @@
   <div>
     <h1>{{ message }}</h1>
     <p>{{ description }}</p>
-    <button @click="changeMessage">更改消息</button>
+    <button @click="changeMessage">更改消息666666666</button>
     <!-- 使用 router-link 添加到 ImagePage.vue 的链接 -->
     <router-link to="/image-page">跳转到图片页面</router-link>
 
